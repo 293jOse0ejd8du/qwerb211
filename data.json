@@ -10,5 +10,9 @@
         "key": "5e80d6c0-5d05-46d4-a75a-0009d6e115ec",
         "ip_hash": "16b6d4b5bbbe3f2184181cf418094e76622f2ceab7e838b44a954728926bbb9d",
         "expiry": "2025-01-02T20:50:56.676426"
+    },
+    "Kyo": {
+        "whitelisted_until": "2025-01-03T16:30:11.008303",
+        "status": "whitelisted"
     }
 }
