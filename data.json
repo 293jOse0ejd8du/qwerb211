@@ -1,1 +1,7 @@
-{}
+{
+    "Test": {
+        "whitelisted_until": "2025-01-03T22:57:49.010935",
+        "status": "whitelisted",
+        "key": "be98b9da-fa28-4ec8-85e4-aea891276a77"
+    }
+}
