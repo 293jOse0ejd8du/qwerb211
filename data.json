@@ -1,5 +1,7 @@
 {
     "Test": {
-        "status": "blacklisted"
+        "status": "whitelisted",
+        "key": "2890898d-3230-4a51-af40-e60e5a88a22f",
+        "whitelisted_until": "2025-02-02T16:49:54.726838"
     }
 }
