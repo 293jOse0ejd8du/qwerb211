@@ -9,5 +9,11 @@
         "status": "whitelisted",
         "key": "9c6838ec-03e2-4c0c-88aa-132cefdb1501",
         "date_added": "2025-01-03 17:16:06"
+    },
+    "1": {
+        "whitelisted_until": "2025-01-04T17:21:06.072321",
+        "status": "whitelisted",
+        "key": "cc94af21-a9ca-4f36-b0fa-9dadf6ea6b40",
+        "date_added": "2025-01-03 17:21:06"
     }
 }
