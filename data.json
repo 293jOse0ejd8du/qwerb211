@@ -3,5 +3,11 @@
         "status": "whitelisted",
         "key": "2890898d-3230-4a51-af40-e60e5a88a22f",
         "whitelisted_until": "2025-02-02T16:49:54.726838"
+    },
+    "Kyo": {
+        "whitelisted_until": "2025-01-04T17:16:06.337282",
+        "status": "whitelisted",
+        "key": "9c6838ec-03e2-4c0c-88aa-132cefdb1501",
+        "date_added": "2025-01-03 17:16:06"
     }
 }
