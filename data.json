@@ -4,5 +4,11 @@
         "status": "whitelisted",
         "key": "Scythe_375d99aa55674628837f",
         "date_added": "2025-01-21T20:08:02.780476"
+    },
+    "Test1": {
+        "whitelisted_until": "2025-01-23T07:12:15.772598",
+        "status": "whitelisted",
+        "key": "Scythe_7a029fa1fd3944b0ae70",
+        "date_added": "2025-01-22T07:12:15.772632"
     }
 }
