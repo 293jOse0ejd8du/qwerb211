@@ -7,8 +7,7 @@
     },
     "Test1": {
         "whitelisted_until": "2025-01-23T07:12:15.772598",
-        "status": "whitelisted",
-        "key": "Scythe_7a029fa1fd3944b0ae70",
+        "status": "blacklisted",
         "date_added": "2025-01-22T07:12:15.772632"
     },
     "Test2": {
